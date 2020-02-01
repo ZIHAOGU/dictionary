@@ -1,0 +1,2 @@
+# dictionary
+ITERATOR-PATTERN
